@@ -1,112 +1,186 @@
-17:33:57.179 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-17:33:57.196 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-17:33:57.196 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-17:33:57.196 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-17:33:57.196 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-17:33:57.202 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Pradeep\AppData\Local\Temp\testng-eclipse--1879482611\testng-customsuite.xml
+17:02:42.562 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:02:42.567 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:02:42.568 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+17:02:42.569 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:02:42.569 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:02:42.570 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:02:42.580 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:02:42.587 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pradeep\AppData\Local\Temp\testng-eclipse--1259823283\testng-customsuite.xml
 
-17:33:57.220 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
-17:33:57.366 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@68759011: 50 ms
-17:33:57.382 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@475835b1: 16 ms
-17:33:57.393 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@30ea8c23: 11 ms
-17:33:57.400 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2289aca5: 7 ms
-17:33:57.408 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@70dd7e15: 7 ms
-17:33:57.408 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4a9f80d3: 0 ms
-17:35:35.054 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+17:02:42.604 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+17:02:46.004 [main] INFO  testCases.TC006_ShoppingCartTest - ***** Starting TC006_ShoppingCartTest *****
+17:02:48.400 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@57a48985: 41 ms
+17:02:48.409 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4682eba5: 9 ms
+17:02:48.416 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2f2d52ef: 7 ms
+17:02:48.421 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3900fa71: 5 ms
+17:02:48.426 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3cec79d3: 5 ms
+17:02:48.428 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@64b70919: 1 ms
+17:03:33.534 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+17:03:33.542 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+17:03:33.544 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:33.544 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:33.545 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:33.545 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:33.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:33.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:33.552 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+17:03:33.562 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+17:03:33.564 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:33.564 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:33.565 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:33.565 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:33.566 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:33.566 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:33.567 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:33.567 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:33.567 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:33.567 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:33.569 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:33.569 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:33.569 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:33.570 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:33.571 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+17:03:33.571 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:33.572 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:33.573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:33.573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:33.573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:33.580 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pradeep\AppData\Local\Temp\testng-eclipse--1002952224\testng-customsuite.xml
+
+17:03:33.593 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+17:03:36.898 [main] INFO  testCases.TC005_AddToCart - ***** Starting TC005_AddToCartTest *****
+17:03:39.272 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@79b08632: 46 ms
+17:03:39.279 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4a05d8ae: 7 ms
+17:03:39.285 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7cf283e1: 6 ms
+17:03:39.289 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6d9fb2d1: 4 ms
+17:03:39.294 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7a5b769b: 5 ms
+17:03:39.294 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@f4c0e4e: 0 ms
+17:05:20.978 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+17:05:20.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+17:05:20.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:05:20.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:05:20.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:05:20.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:05:20.989 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:05:20.989 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:05:20.995 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+17:05:21.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+17:05:21.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:05:21.007 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+17:05:21.008 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:05:21.008 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:05:21.009 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:05:21.009 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:05:21.011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:05:21.011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:05:21.012 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:05:21.012 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:05:21.015 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:05:21.015 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:05:21.015 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:05:21.015 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:05:21.016 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:05:21.017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+17:05:21.018 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:05:21.019 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:05:21.019 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:05:21.019 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:05:21.028 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pradeep\AppData\Local\Temp\testng-eclipse--43603006\testng-customsuite.xml
+
+17:05:21.042 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+17:05:24.246 [main] INFO  testCases.TC005_AddToCart - ***** Starting TC005_AddToCartTest *****
+17:05:27.733 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6aef4eb8: 39 ms
+17:05:27.743 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4eb30d44: 9 ms
+17:05:27.749 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@60737b23: 6 ms
+17:05:27.756 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@540a903b: 7 ms
+17:05:27.761 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@24361cfc: 4 ms
+17:05:27.762 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@34e20e6b: 0 ms
+17:07:47.661 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\Pradeep\Desktop\JavaProgram\Opencartv1\master.xml
 
-17:35:38.294 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
-17:35:38.386 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
-17:35:39.266 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link *****
-17:35:39.270 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer Details *****
-17:35:40.694 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validatin Expected Message *****
-17:35:40.742 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-17:40:43.980 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Pradeep\Desktop\JavaProgram\Opencartv1\master.xml
+17:07:51.164 [main] INFO  testCases.TC005_AddToCart - ***** Starting TC005_AddToCartTest *****
+17:43:57.975 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:43:57.981 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+17:43:57.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:43:57.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:43:57.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:43:57.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:43:57.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:43:57.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:43:57.994 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+17:43:58.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+17:43:58.004 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:43:58.005 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:43:58.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:43:58.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:43:58.007 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:43:58.007 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:43:58.009 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:43:58.009 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:43:58.009 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:43:58.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:43:58.012 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:43:58.012 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:43:58.012 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:43:58.013 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:43:58.014 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+17:43:58.014 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:43:58.016 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:43:58.017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:43:58.017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:43:58.017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:43:58.022 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pradeep\AppData\Local\Temp\testng-eclipse-2069534235\testng-customsuite.xml
 
-17:40:47.228 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
-17:40:47.334 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
-17:40:48.578 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link *****
-17:40:48.582 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer Details *****
-17:40:50.001 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validatin Expected Message *****
-17:40:50.050 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-17:41:38.731 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Pradeep\Desktop\JavaProgram\Opencartv1\test-output\testng-failed.xml
+17:43:58.039 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+17:44:01.456 [main] INFO  testCases.TC007_DeleteFromCart - ***** Starting TC006_ShoppingCartTest *****
+17:44:05.122 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6d9fb2d1: 39 ms
+17:44:05.123 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@61fafb74: 1 ms
+17:44:05.128 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@f2ce6b: 5 ms
+17:44:05.132 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26722665: 4 ms
+17:44:05.136 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@64b70919: 4 ms
+17:44:05.136 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4e31c3ec: 0 ms
+17:30:43.723 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.733 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+17:30:43.735 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.735 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:43.736 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.736 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:43.737 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.737 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:43.743 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+17:30:43.753 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+17:30:43.755 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.755 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:43.756 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.757 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:43.757 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.757 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:43.759 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.759 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:43.759 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.760 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:43.762 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.762 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:43.762 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.762 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:43.764 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.764 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:43.767 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.767 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:43.767 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:43.767 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:43.774 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pradeep\AppData\Local\Temp\testng-eclipse--335738528\testng-customsuite.xml
 
-17:41:42.605 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
-17:41:42.706 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
-17:41:43.303 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link *****
-17:41:43.307 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer Details *****
-17:41:44.714 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validatin Expected Message *****
-17:41:44.760 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-11:09:00.703 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
-11:09:00.787 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
-11:09:01.388 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link *****
-11:09:01.391 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer Details *****
-11:09:02.734 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validatin Expected Message *****
-11:09:02.769 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-11:09:05.646 [main] INFO  testCases.TC002_LoginTest - **********Starting TC_002_LoginTest *********
-11:09:07.182 [main] INFO  testCases.TC002_LoginTest - **********Finish TC_002_LoginTest *********
-11:09:39.706 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
-11:09:39.802 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
-11:09:40.380 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link *****
-11:09:40.384 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer Details *****
-11:09:41.507 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validatin Expected Message *****
-11:09:41.544 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-11:09:44.285 [main] INFO  testCases.TC002_LoginTest - **********Starting TC_002_LoginTest *********
-11:09:45.649 [main] INFO  testCases.TC002_LoginTest - **********Finish TC_002_LoginTest *********
-11:11:20.876 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
-11:11:20.970 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
-11:11:21.556 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link *****
-11:11:21.558 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer Details *****
-11:11:22.744 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validatin Expected Message *****
-11:11:22.783 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-11:11:25.534 [main] INFO  testCases.TC002_LoginTest - **********Starting TC_002_LoginTest *********
-11:11:26.928 [main] INFO  testCases.TC002_LoginTest - **********Finish TC_002_LoginTest *********
-11:12:08.008 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Pradeep\Desktop\JavaProgram\Opencartv1\grouping.xml
-
-11:12:11.277 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
-11:12:11.362 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
-11:12:12.119 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link *****
-11:12:12.121 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer Details *****
-11:12:13.287 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validatin Expected Message *****
-11:12:13.327 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-11:12:16.087 [main] INFO  testCases.TC002_LoginTest - **********Starting TC_002_LoginTest *********
-11:12:17.435 [main] INFO  testCases.TC002_LoginTest - **********Finish TC_002_LoginTest *********
-11:13:34.914 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Pradeep\Desktop\JavaProgram\Opencartv1\master.xml
-
-11:13:38.017 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
-11:13:38.178 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
-11:13:38.918 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link *****
-11:13:38.922 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer Details *****
-11:13:40.136 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validatin Expected Message *****
-11:13:40.175 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-11:13:42.993 [main] INFO  testCases.TC002_LoginTest - **********Starting TC_002_LoginTest *********
-11:13:44.364 [main] INFO  testCases.TC002_LoginTest - **********Finish TC_002_LoginTest *********
-11:14:03.166 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
-11:14:03.255 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
-11:14:03.851 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link *****
-11:14:03.853 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer Details *****
-11:14:05.008 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validatin Expected Message *****
-11:14:05.047 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-11:14:09.186 [main] INFO  testCases.TC002_LoginTest - **********Starting TC_002_LoginTest *********
-11:14:10.502 [main] INFO  testCases.TC002_LoginTest - **********Finish TC_002_LoginTest *********
-11:21:12.761 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
-11:21:12.850 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
-11:21:13.410 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link *****
-11:21:13.414 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer Details *****
-11:21:14.671 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validatin Expected Message *****
-11:21:14.707 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-11:21:17.394 [main] INFO  testCases.TC002_LoginTest - **********Starting TC_002_LoginTest *********
-11:21:18.723 [main] INFO  testCases.TC002_LoginTest - **********Finish TC_002_LoginTest *********
-12:29:13.010 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
-12:29:13.131 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
-12:29:13.985 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link *****
-12:29:13.989 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer Details *****
-12:29:15.301 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validatin Expected Message *****
-12:29:15.341 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-12:29:19.105 [main] INFO  testCases.TC002_LoginTest - **********Starting TC_002_LoginTest *********
-12:29:20.395 [main] INFO  testCases.TC002_LoginTest - **********Finish TC_002_LoginTest *********
+17:30:43.794 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+17:30:46.451 [main] INFO  testCases.TC007_DeleteFromCart - ***** Starting TC006_ShoppingCartTest *****
+17:30:48.741 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@15ac59c2: 50 ms
+17:30:48.742 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7a7d1b47: 1 ms
+17:30:48.748 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@36f1046f: 6 ms
+17:30:48.752 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@72e789cb: 4 ms
+17:30:48.757 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@67c119b7: 5 ms
+17:30:48.757 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2ca5f1ed: 0 ms

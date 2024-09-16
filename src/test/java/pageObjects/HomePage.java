@@ -22,6 +22,19 @@ public class HomePage extends BasePage {
 	@FindBy(linkText="Login")  // add login link at step 5
 	WebElement linklogin;
 	
+	
+	@FindBy(xpath="//input[@placeholder='Search']")
+	WebElement txt_search;
+	
+	@FindBy(xpath="//button[@class='btn btn-default btn-lg']")
+	WebElement btn_search;
+	
+	@FindBy(xpath="//span[normalize-space()='Shopping Cart']")
+	WebElement shoppingcart;
+	
+	
+	
+	
 	public void clickMyAccount() {
 		myaccount.click();
 	}
@@ -34,5 +47,20 @@ public class HomePage extends BasePage {
 	public void clickLogin() {
 		linklogin.click();
 	}
+	
+	public void enterProductName(String search_text) {
+		txt_search.sendKeys(search_text);
+	}
+	
+	public void clickSearch() {
+		btn_search.click();
+	}
 
+	public void clickShoppingCart() {
+		shoppingcart.click();
+	}
+	
+	
+	
+	
 }
